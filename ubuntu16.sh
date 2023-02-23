@@ -13,4 +13,3 @@ echo deb-src http://mirrors.aliyun.com/ubuntu/ xenial-security main >> /etc/apt/
 echo deb http://mirrors.aliyun.com/ubuntu/ xenial-security universe >> /etc/apt/sources.list
 echo deb-src http://mirrors.aliyun.com/ubuntu/ xenial-security universe >> /etc/apt/sources.list
 apt update
-apt upgrade -y
